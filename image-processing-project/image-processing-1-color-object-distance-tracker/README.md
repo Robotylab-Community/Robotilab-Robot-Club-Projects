@@ -2,7 +2,10 @@
 
 This computer-vision project tracks one blue object and one red object in a live webcam feed, then measures the distance between their centre points in pixels.
 
-![Live detection of blue and red objects with measured centre-to-centre distance](detection-example.png)
+<img src="detection-example.png"
+     alt="Live detection of blue and red objects with measured centre-to-centre distance"
+     width="500">
+
 
 ## What makes this project useful
 
