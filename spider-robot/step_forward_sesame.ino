@@ -24,9 +24,8 @@ const int JOINT_DELAY = 60;
 const int HIP_SWING = 50; 
 const int KNEE_LIFT = 60; 
 
-// 🎯 --- نظام تصحيح الانحراف لليسار --- 🎯
-int LEFT_HIP_OFFSET = 20;  // إعطاء الأرجل اليسرى خطوة أطول بـ 20 نبضة لمنع السحب لليسار
-int RIGHT_HIP_OFFSET = 0;  // تصفير تعويض اليمين تماماً
+int LEFT_HIP_OFFSET = 20;  
+int RIGHT_HIP_OFFSET = 0;  
 
 // رفع إضافي لركب اليسار لمنع الاحتكاك بالأرض
 const int EXTRA_LEFT_LIFT = 15; 
